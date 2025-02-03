@@ -1,6 +1,6 @@
 
 ![2-D,_19-200](https://github.com/user-attachments/assets/7148d0a2-ad14-41b7-ab6e-4fc442f2f915)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <!--
 **Vinzzyyrr/Vinzzyyrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
